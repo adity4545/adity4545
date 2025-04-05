@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Aditya kakkad
 - 👀 I’m interested in Web Development, Siftware Development, AIML engineer, Python developer
 - 🌱 I’m currently learning Blockchain and cryptogrphy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact:  I turn datasets into insights and algorithms into AI magic! 🚀
 
 <!---
