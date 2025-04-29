@@ -4,12 +4,12 @@
 - ⚡ Fun fact:  I turn datasets into insights and algorithms into AI magic! 🚀
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development, Blockchain applications, and AI/ML research, combining real-world development with intelligent systems.
-👯 I’m looking to collaborate on innovative web apps, decentralized solutions, and AI-driven platforms, while exploring career opportunities in these domains.
-🤝 I can help with full stack web apps, smart contract development, and AI/ML problem-solving—I'm actively building and learning every day.
-🌱 I’m currently learning advanced React, Web3 & smart contracts (Solidity), deep learning models, and cloud-based deployment.
-💬 Ask me about React, Node.js, Tailwind CSS, Web3, Ethereum, smart contracts, AI/ML, and data analytics—let’s build something awesome!
-⚡ Fun fact: I turn lines of code into smart applications and data into intelligent systems! 🚀
+🔭 I’m currently working on Full Stack Development, Blockchain applications, and AI/ML research, combining real-world development with intelligent systems.<br>
+👯 I’m looking to collaborate on innovative web apps, decentralized solutions, and AI-driven platforms, while exploring career opportunities in these domains.<br>
+🤝 I can help with full stack web apps, smart contract development, and AI/ML problem-solving—I'm actively building and learning every day.<br>
+🌱 I’m currently learning advanced React, Web3 & smart contracts (Solidity), deep learning models, and cloud-based deployment.<br>
+💬 Ask me about React, Node.js, Tailwind CSS, Web3, Ethereum, smart contracts, AI/ML, and data analytics—let’s build something awesome!<br>
+⚡ Fun fact: I turn lines of code into smart applications and data into intelligent systems! 🚀<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adityakakkad__22?igsh=MTljdXVvbHI1MnBrMg%3D%3D&utm_source=qr ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kakkad-045689225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakkadaditya65@gmail.com) 
